@@ -4,6 +4,8 @@ import Home from "./views/Home/Home";
 import Contact from "./views/Contact/Contact";
 import Services from "./views/Services/Services";
 
+import "./style.css"
+
 
 import { createBrowserRouter , RouterProvider } from "react-router-dom";
 
